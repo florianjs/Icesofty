@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **argaudflorian@gmail.com**
 
-- I'm available for **full remote** work ( - xDSL 18mb/s + 4G unlimited datas @ 100mb/s - A laptop with dual screens & a computer on the cloud with https://shadow.tech/ )
+- 💻 I'm available for **full remote** work ( - xDSL 18mb/s + 4G unlimited datas @ 100mb/s - A laptop with dual screens & a computer on the cloud with https://shadow.tech/ )
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=icesofty&show_icons=true" alt="icesofty" /> </p>
 

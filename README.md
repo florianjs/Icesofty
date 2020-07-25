@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from France</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icesofty" alt="icesofty" /> </p>
 
-- 🔭 I’m currently working on [a decentralized Blockchain](https://glitch.com/~oracle-blockchain)
+- 🔭 I’m currently working on [Shopster - an Open Source CRM for Dropshipping & Affiliate links](https://github.com/Icesofty/shopster)
 
 - 👯 I’m looking to collaborate on **Blockchain projects**
 

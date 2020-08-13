@@ -23,8 +23,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="vuejs" width="50" height="50"/> 
 </p>
  
-   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=icesofty&show_icons=true" alt="icesofty" /></p>
-
+   <p align="center"><img src=" https://github-readme-stats-1-delta.vercel.app/api?username=icesofty&show_icons=true" alt="icesofty" /></p>
 <p align="center">
 <a href="https://dev.to/icesofty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="icesofty" height="30" width="30"/></a>
 <a href="https://twitter.com/icesofty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="icesofty" height="30" width="30" /></a>

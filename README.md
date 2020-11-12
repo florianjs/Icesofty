@@ -16,7 +16,6 @@
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="vuejs" width="50" height="50"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="vuejs" width="50" height="50"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="vuejs" width="50" height="50"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 

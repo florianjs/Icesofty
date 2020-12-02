@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">A passionate Fullstack developer from France</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icesofty" alt="icesofty" /> </p>
 
-- 🔭 I’m currently working on [French.dev - La plateforme de recrutement qui met les développeurs au centre de l'attention](https://www.french.dev/)
+- 🔭 I’m currently working on [MistralCSS - Tailwind CSS 2.0 components](https://www.mistralcss.com/)
 
-- 👯 I’m looking to collaborate on **Blockchain projects**
+- 👯 I’m looking to collaborate on **NuxtJS projects**
 
 - 📝 I sometimes write articles on [https://dev.to/icesofty](https://dev.to/icesofty)
 
 - 💬 Ask me about **NodeJS / Express / JavaScript**
 
-- 📫 How to reach me **argaudflorian@gmail.com**
+- 📫 How to reach me **argaudflorian@pm.me**
 
 - 💻 I'm available for **full remote** work ( - xDSL 18mb/s + 4G unlimited datas @ 100mb/s - A laptop with dual screens & a computer on the cloud with https://shadow.tech/ )
 

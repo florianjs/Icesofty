@@ -7,19 +7,12 @@
 
 - 📝 I sometimes write articles on [https://dev.to/icesofty](https://dev.to/icesofty)
 
-- 💬 Ask me about **NodeJS / Express / JavaScript**
+- 💬 Ask me about **NodeJS / Express / VueJS**
 
 - 📫 How to reach me **argaudflorian@pm.me**
 
 - 💻 I'm available for **full remote** work ( - xDSL 18mb/s + 4G unlimited datas @ 100mb/s - A laptop with dual screens & a computer on the cloud with https://shadow.tech/ )
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="vuejs" width="50" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="vuejs" width="50" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="vuejs" width="50" height="50"/> 
-</p>
  
    <p align="center"><img src="https://github-readme-stats-1-delta.vercel.app/api?username=icesofty&show_icons=true" alt="icesofty" /></p>
 <p align="center">

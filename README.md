@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">A passionate Fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [MistralCSS - Tailwind CSS 2.0 components](https://www.mistralcss.com/)
+- 🔭 I’m currently working for [UserAdgents](https://www.useradgents.com/)
 
-- 👯 I’m looking to collaborate on **NuxtJS projects**
+- 👯 I’m looking to collaborate on **JAMstack projects**
 
-- 📝 I sometimes write articles on [https://dev.to/icesofty](https://dev.to/icesofty)
+- 📝 I sometimes write articles on [https://www.independence.dev/](https://www.independence.dev/)
 
-- 💬 Ask me about **NodeJS / Express / VueJS**
+- 💬 Ask me about **NuxtJS / TailwindCSS / VueJS**
 
 - 📫 How to reach me **argaudflorian@pm.me**
 
-- 💻 I'm available for **full remote** work ( - xDSL 18mb/s + 4G unlimited datas @ 100mb/s - A laptop with dual screens & a computer on the cloud with https://shadow.tech/ )
+- 💻 I'm currently **NOT** available
 
  
    <p align="center"><img src="https://github-readme-stats-1-delta.vercel.app/api?username=icesofty&show_icons=true" alt="icesofty" /></p>

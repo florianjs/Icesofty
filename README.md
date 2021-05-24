@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **argaudflorian@pm.me**
 
-- 💻 I'm currently **NOT** available
-
  
    <p align="center"><img src="https://github-readme-stats-1-delta.vercel.app/api?username=icesofty&show_icons=true" alt="icesofty" /></p>
 <p align="center">

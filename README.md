@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">A passionate Fullstack developer from France</h3>
 
-- 🔭 I’m currently working for [UserAdgents](https://www.useradgents.com/)
+- 🔭 I’m currently working as a Freelance Frontend Web dev
 
 - 👯 I’m looking to collaborate on **JAMstack projects**
 
-- 📝 I sometimes write articles on [https://www.independence.dev/](https://www.independence.dev/)
+- 📝 I sometimes write articles on [https://www.florianargaud.com/](https://www.florianargaud.com/)
 
 - 💬 Ask me about **NuxtJS / TailwindCSS / VueJS**
 
-- 📫 How to reach me **argaudflorian@pm.me**
+- 📫 How to reach me **hi@florianargaud.anonaddy.com**
 
  
    <p align="center"><img src="https://github-readme-stats-1-delta.vercel.app/api?username=icesofty&show_icons=true" alt="icesofty" /></p>
